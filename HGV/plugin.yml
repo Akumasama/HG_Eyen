@@ -1,0 +1,8 @@
+name: HGV
+main: me.SimulaCraft.HGV
+version: 0.1
+commands:
+    ping:
+        description: Sends a ping command to the server.
+        usage: /<command>
+        
